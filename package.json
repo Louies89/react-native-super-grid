@@ -1,0 +1,110 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-super-grid",
+        "scope": null,
+        "escapedName": "react-native-super-grid",
+        "name": "react-native-super-grid",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\2nd Start\\SrvrSide\\Downloadnpm"
+    ]
+  ],
+  "_from": "react-native-super-grid",
+  "_hasShrinkwrap": false,
+  "_id": "react-native-super-grid@3.1.1",
+  "_location": "/react-native-super-grid",
+  "_nodeVersion": "12.10.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-super-grid_3.1.1_1569578878664_0.08075324910255555"
+  },
+  "_npmUser": {
+    "name": "saleel",
+    "email": "saleel97@gmail.com"
+  },
+  "_npmVersion": "6.11.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-super-grid",
+    "scope": null,
+    "escapedName": "react-native-super-grid",
+    "name": "react-native-super-grid",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-super-grid/-/react-native-super-grid-3.1.1.tgz",
+  "_shasum": "27652de0827d158ba0ab400631f30c74a68f8550",
+  "_shrinkwrap": null,
+  "_spec": "react-native-super-grid",
+  "_where": "E:\\2nd Start\\SrvrSide\\Downloadnpm",
+  "author": {
+    "name": "saleel"
+  },
+  "bugs": {
+    "url": "https://github.com/saleel97/react-native-super-grid/issues"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  },
+  "description": "Responsive Grid View for React Native",
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-react": "^7.11.1"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-qtnoXDKDG/hfqPzmXt34HGNjlOL1D7+efYlaaECCGp2MwOZxE7MTDy9pHGtpTcrM8JRTVyqB1Piy1SkkWEa80Q==",
+    "shasum": "27652de0827d158ba0ab400631f30c74a68f8550",
+    "tarball": "https://registry.npmjs.org/react-native-super-grid/-/react-native-super-grid-3.1.1.tgz",
+    "fileCount": 9,
+    "unpackedSize": 28739,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJdjd9/CRA9TVsSAnZWagAAr1EP/1VJwZaWjYrmXCQLTMEu\nbsBZIuuIuuZD2QFLpIkpFLBV4KgicCVCFtaKwq9yXHDoRDJz/0mezWGxt9eL\n+7vCD0OQdfoyt5XWFa8DJXIrFsh52EDHhPVMGTjCp9EvuWOc8FDPGnm7TU+n\nVTKv7yz7iojs9ygwIbRSjE0pPTpNqQ34ydkTJc/GwE5GZ5jAFh2AcOBm1Enp\nnMLfmiGt1RXi29vKPz1udN3bJ8y6rsVpXLD1JjdE5v4keUUqseX9kJTzfupR\nSsVvObXs0FF7NQDH6N0jjgXxNOXPCqlqwtUX8Eekl91GsDxTgy1Mo1lr8SsV\nkah9bahsY5imuMWjCUqe3jjj7ONvJTMLCUjMrNwLn6S/jtPOuK05y9Gzb9EO\n8wNhxy8KqrPBiZ0LQP68rTzyttn3lLPe/8I+inH5LYXsbwTx2CdCLw5ydwAC\ngqVTS8uIPNLShgEhjKJ/u7BJvpp7LERdfhWrGVfK/qu6fmzJU7ulTidWkFyV\nce+rKLq+pUwKmTYOwrq0fGiiJdHHHvZ6FlKHwvZVjus1m6F0gbLiQPouG4cC\nf6cV66TM0RY9+QCU84X/0yIpg0v62BgkR2iXS+K15nI1dx6ibcH6FR/Pd+4Q\nptMVKY1NtLDZO2/2+1V6i2O+m2FyP8j77BaRPIV2afbYAvxZe0wWBTonLoCC\nEtt2\r\n=doG6\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "gitHead": "c30715652c41e716beeb520bf712aed4878eb233",
+  "homepage": "https://github.com/saleel97/react-native-super-grid",
+  "keywords": [
+    "react",
+    "native",
+    "responsive",
+    "super",
+    "grid",
+    "view",
+    "flatlist",
+    "listview",
+    "sectionlist"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "saleel",
+      "email": "saleel97@gmail.com"
+    }
+  ],
+  "name": "react-native-super-grid",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react": "*",
+    "react-native": ">=0.49.0"
+  },
+  "readme": "# React Native Super Grid\n\n![npm version](https://img.shields.io/npm/v/react-native-super-grid.svg?colorB=brightgreen&style=flat-square)\n![npm download](https://img.shields.io/npm/dt/react-native-super-grid.svg?style=flat-square)\n\n\n\n\nResponsive Grid View for React Native.\n\n\n## Getting Started\n\nThis library export two components - FlatGrid (similar to FlatList) and SectionGrid (similar to SectionList). Both components render a Grid layout that adapts itself to various screen resolutions.\n\nInstead of passing an itemPerRow argument, you pass ```itemDimension``` and each item will be rendered with a dimension size equal to or more than (to fill the screen) the given dimension.\n\nInternally, these components use the native [FlatList](https://facebook.github.io/react-native/docs/flatlist.html) and [SectionList](https://facebook.github.io/react-native/docs/sectionlist.html).\n\n\n**Version 2.x and older, please refer [v2 branch](https://github.com/saleel/react-native-super-grid/tree/v2) for documentation**  \n  \n\n### Installing\n\nYou can install the package via npm.\n\n```\nnpm install react-native-super-grid\n```\n\n\n\n### Usage (FlatGrid)\n```javascript\nimport { FlatGrid } from 'react-native-super-grid';\n```\n```javascript\n<FlatGrid\n  itemDimension={130}\n  items={[1,2,3,4,5,6]}\n  renderItem={({ item }) => (<Text>{item}</Text>)}\n/>\n```\n\n\n### Usage (SectionGrid)\n\n```javascript\nimport { SectionGrid } from 'react-native-super-grid';\n```\n```javascript\n<SectionGrid\n  itemDimension={130}\n  sections={[\n    {\n      title: 'Numbers',\n      data: [1,2,3,4,5,6],\n    },\n    {\n      title: 'Alphabets',\n      data: ['A', 'B', 'C', 'D', 'E'],\n    },\n  ]}\n  renderItem={({ item }) => (<Text>{item}</Text>)}\n  renderSectionHeader={({ section }) => (\n    <Text style={{ fontSize: 20 }}>{section.title}</Text>\n  )}\n/>\n```\n\n\n#### Properties\n\n| Property | Type | Default Value | Description |\n|---|---|---|---|\n| renderItem | Function |  | Function to render each object. Should return a react native component. Same signature as that of FlatList/SectionList's renderItem (with an additional key `rowIndex`).  |\n| items (for FlatGrid) sections (for SectionGrid)  | Array |  | Items to be rendered. renderItem will be called with each item in this array. Same signature as that of FlatList/SectionList. |  |\n| itemDimension | Number | 120  | Minimum width or height for each item in pixels (virtual). |\n| fixed | Boolean | false  | If true, the exact ```itemDimension``` will be used and won't be adjusted to fit the screen. |\n| spacing | Number | 10 | Spacing between each item. |\n| style | [FlatList](https://facebook.github.io/react-native/docs/flatlist.html) styles (Object) |  | Styles for the container. Styles for an item should be applied inside ```renderItem```. |\n| itemContainerStyle | styles (Object) | | Style for item's container. Not needed for most cases.\n| staticDimension | Number | undefined | Specifies a static width or height for the container. If not passed, full width/height of the screen will be used.|\n| horizontal | boolean | false | If true, the grid will be scrolling horizontally. If you want your item to fill the height when using a horizontal grid, you should give it a height of '100%'. This prop doesn't affect the SectionGrid, which only scrolls vertically. |\n| onLayout | Function |  | Optional callback ran by the internal `FlatList` or `SectionList`'s `onLayout` function, thus invoked on mount and layout changes. |\n| listKey | String | undefined | A unique identifier for the Grid. This key is necessary if you are nesting multiple FlatGrid/SectionGrid inside another Grid (or any VirtualizedList).|\n\nAll additional props you pass will be passed on to the internal FlatList/SectionList. This means you can make use of various props and methods like `ListHeaderComponent`, `onEndReached`, `onRefresh`...etc. While these are not tested for compatibility, most of them should work as expected.\n\nIn **SectionGrid**, `section` argument in methods like `renderSectionHeader`, `renderSectionFooter`, `ItemSeparatorComponent` will slightly different from the actual section you passed. The `data` key in the `section` will be the grouped versions of items (items that go in one row), and the original list of items can be found in `originalData` key. All other keys will remain intact.\n\n\n\n## v2 to v3 Migration\n\nThe major API change in v3 was renaming the components to `FlatGrid` and `SectionGrid` and making the `renderItem` signature to match with `FlatList` and `SectionList`.\n\n\nSo instead of \n```javascript\nimport GridView from 'react-native-super-grid';\nimport { SuperGridSectionList } from 'react-native-super-grid';\n```\nuse\n```javascript\nimport { FlatGrid, SectionGrid } from 'react-native-super-grid';\n```\n\nAlso change the renderItem function parameters from\n```javascript\n<GridView\n  items={[1,2,3,4,5,6]}\n  renderItem={(item, index) => (<Text>{item}</Text>)}\n/>\n```\nto\n```javascript\n<FlatGrid\n  items={[1,2,3,4,5,6]}\n  renderItem={({ item, index }) => (<Text>{item}</Text>)}\n/>\n```\n\n\n## FlatGrid Example\n```javascript\nimport React, { Component } from 'react';\nimport { StyleSheet, View, Text } from 'react-native';\nimport { FlatGrid } from 'react-native-super-grid';\n\nexport default class Example extends Component {\n  render() {\n    const items = [\n      { name: 'TURQUOISE', code: '#1abc9c' }, { name: 'EMERALD', code: '#2ecc71' },\n      { name: 'PETER RIVER', code: '#3498db' }, { name: 'AMETHYST', code: '#9b59b6' },\n      { name: 'WET ASPHALT', code: '#34495e' }, { name: 'GREEN SEA', code: '#16a085' },\n      { name: 'NEPHRITIS', code: '#27ae60' }, { name: 'BELIZE HOLE', code: '#2980b9' },\n      { name: 'WISTERIA', code: '#8e44ad' }, { name: 'MIDNIGHT BLUE', code: '#2c3e50' },\n      { name: 'SUN FLOWER', code: '#f1c40f' }, { name: 'CARROT', code: '#e67e22' },\n      { name: 'ALIZARIN', code: '#e74c3c' }, { name: 'CLOUDS', code: '#ecf0f1' },\n      { name: 'CONCRETE', code: '#95a5a6' }, { name: 'ORANGE', code: '#f39c12' },\n      { name: 'PUMPKIN', code: '#d35400' }, { name: 'POMEGRANATE', code: '#c0392b' },\n      { name: 'SILVER', code: '#bdc3c7' }, { name: 'ASBESTOS', code: '#7f8c8d' },\n    ];\n\n    return (\n      <FlatGrid\n        itemDimension={130}\n        items={items}\n        style={styles.gridView}\n        // staticDimension={300}\n        // fixed\n        // spacing={20}\n        renderItem={({ item, index }) => (\n          <View style={[styles.itemContainer, { backgroundColor: item.code }]}>\n            <Text style={styles.itemName}>{item.name}</Text>\n            <Text style={styles.itemCode}>{item.code}</Text>\n          </View>\n        )}\n      />\n    );\n  }\n}\n\nconst styles = StyleSheet.create({\n  gridView: {\n    marginTop: 20,\n    flex: 1,\n  },\n  itemContainer: {\n    justifyContent: 'flex-end',\n    borderRadius: 5,\n    padding: 10,\n    height: 150,\n  },\n  itemName: {\n    fontSize: 16,\n    color: '#fff',\n    fontWeight: '600',\n  },\n  itemCode: {\n    fontWeight: '600',\n    fontSize: 12,\n    color: '#fff',\n  },\n});\n\n```\n\n\n\n| ![iPhone6 Portrait](/screenshots/iphone6_portrait.png?raw=true \"iPhone6 Portrait\")| ![iPhone6 Landscape](/screenshots/iphone6_landscape.png?raw=true \"iPhone6 Landscape\") |\n|:---:|:---:|\n| iPhone6 Portrait | iPhone6 Landscape  |\n\n| ![iPad Air 2 Portrait](/screenshots/ipadair2_portrait.png?raw=true \"iPad Air 2 Portrait\") | ![iPad Air 2 Landscape](/screenshots/ipadair2_landscape.png?raw=true \"iPad Air 2 Landscape\") |\n|:---:|:---:|\n| iPad Air 2 Portrait | iPad Air 2 Landscape  |\n\n| ![Android Portrait](/screenshots/android_portrait.png?raw=true \"Android Portrait\") | ![Android Landscape](/screenshots/android_landscape.png?raw=true \"Android Landscape\") |\n|:---:|:---:|\n| Android Portrait | Android Landscape  |\n\n| ![Android Horizontal Portrait](/screenshots/android_horizontal_portrait.png?raw=true \"Android Horizontal Portrait\") | ![Android Horizontal Landscape](/screenshots/android_horizontal_landscape.png?raw=true \"Android Horizontal Landscape\") |\n|:---:|:---:|\n| Android Horizontal Portrait | Android Horizontal Landscape  |\n\n| ![iPhone Horizontal Portrait](/screenshots/iphone_horizontal_portrait.png?raw=true \"iPhone Horizontal Portrait\")| ![iPhone Horizontal Landscape](/screenshots/iphone_horizontal_landscape.png?raw=true \"iPhone Horizontal Landscape\") |\n|:---:|:---:|\n| iPhone Horizontal Portrait | iPhone Horizontal Landscape  |\n\n## SectionGrid Example\n```javascript\nimport React, { Component } from 'react';\nimport { StyleSheet, View, Text } from 'react-native';\nimport { SectionGrid } from 'react-native-super-grid';\n\nexport default class Example extends Component {\n  render() {\n    const items = [\n      { name: 'TURQUOISE', code: '#1abc9c' },\n      { name: 'EMERALD', code: '#2ecc71' },\n      { name: 'PETER RIVER', code: '#3498db' },\n      { name: 'AMETHYST', code: '#9b59b6' },\n      { name: 'WET ASPHALT', code: '#34495e' },\n      { name: 'GREEN SEA', code: '#16a085' },\n      { name: 'NEPHRITIS', code: '#27ae60' },\n      { name: 'BELIZE HOLE', code: '#2980b9' },\n      { name: 'WISTERIA', code: '#8e44ad' },\n      { name: 'MIDNIGHT BLUE', code: '#2c3e50' },\n      { name: 'SUN FLOWER', code: '#f1c40f' },\n      { name: 'CARROT', code: '#e67e22' },\n      { name: 'ALIZARIN', code: '#e74c3c' },\n      { name: 'CLOUDS', code: '#ecf0f1' },\n      { name: 'CONCRETE', code: '#95a5a6' },\n      { name: 'ORANGE', code: '#f39c12' },\n      { name: 'PUMPKIN', code: '#d35400' },\n      { name: 'POMEGRANATE', code: '#c0392b' },\n      { name: 'SILVER', code: '#bdc3c7' },\n      { name: 'ASBESTOS', code: '#7f8c8d' },\n    ];\n\n    return (\n      <SectionGrid\n        itemDimension={90}\n        // staticDimension={300}\n        // fixed\n        // spacing={20}\n        sections={[\n          {\n            title: 'Title1',\n            data: items.slice(0, 6),\n          },\n          {\n            title: 'Title2',\n            data: items.slice(6, 12),\n          },\n          {\n            title: 'Title3',\n            data: items.slice(12, 20),\n          },\n        ]}\n        style={styles.gridView}\n        renderItem={({ item, section, index }) => (\n          <View style={[styles.itemContainer, { backgroundColor: item.code }]}>\n            <Text style={styles.itemName}>{item.name}</Text>\n            <Text style={styles.itemCode}>{item.code}</Text>\n          </View>\n        )}\n        renderSectionHeader={({ section }) => (\n          <Text style={styles.sectionHeader}>{section.title}</Text>\n        )}\n      />\n    );\n  }\n}\n\nconst styles = StyleSheet.create({\n  gridView: {\n    marginTop: 20,\n    flex: 1,\n  },\n  itemContainer: {\n    justifyContent: 'flex-end',\n    borderRadius: 5,\n    padding: 10,\n    height: 150,\n  },\n  itemName: {\n    fontSize: 16,\n    color: '#fff',\n    fontWeight: '600',\n  },\n  itemCode: {\n    fontWeight: '600',\n    fontSize: 12,\n    color: '#fff',\n  },\n  sectionHeader: {\n    flex: 1,\n    fontSize: 15,\n    fontWeight: '600',\n    alignItems: 'center',\n    backgroundColor: '#636e72',\n    color: 'white',\n    padding: 10,\n  },\n});\n```\n| ![iPhone SectionGrid Portrait](/screenshots/iphone_section_grid_portrait.png?raw=true \"iPhone SectionGrid Portrait\")| ![iPhone6 Landscape](/screenshots/iphone_section_grid_landscape.png?raw=true \"iPhone6 Landscape\") |\n|:---:|:---:|\n| iPhone SectionGrid Portrait | iPhone6 Landscape  |\n\n## License\nThis project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.\n\n\n\n## Changelog\n\n### [3.1.1] - 2019-09-27\n- Fix type definitions @JulienKode\n\n### [3.1.0] - 2019-09-16\n- Support overriding of renderItem in SectionList @paldepind\n\n### [3.0.9] - 2019-08-16\n- Improve type definitions @Grohden\n\n### [3.0.8] - 2019-07-16\n- Fix type definitions @Grohden\n\n### [3.0.7] - 2019-06-29\n- Add listKey prop @josemiguelo\n\n### [3.0.6] - 2019-05-18\n- Fix type definitions @zhigang1992\n\n### [3.0.5] - 2019-05-04\n- Fix type definitions @zhigang1992\n\n### [3.0.4] - 2019-04-16\n- Fix type definitions @hisankaran\n\n### [3.0.3] - 2019-02-25\n- Fix type definitions @jgbernalp\n\n### [3.0.2] - 2019-02-20\n- Fix calculation bug where itemsPerRow became zero (#81).\n\n### [3.0.1] - 2019-02-02\n- Fix in section key passed to various SectionGrid props.\n\n### [3.0.0] - 2019-01-20\n- Rename components, FlatList renderItem signature, Performance improvements.\n\n### [2.4.3] - 2018-07-22\n- Fix deep copying issue in SectionGrid @andersonaddo\n\n### [2.4.2] - 2018-07-21\n- Add itemContainerStyle prop @KseniaSecurity\n\n### [2.4.1] - 2018-07-07\n- Add onLayout prop @ataillefer\n\n### [2.4] - 2018-05-11\n- renderItem index fix @andersonaddo\n\n### [2.3.2] - 2018-05-23\n- Typescript support for SuperGridSectionList @Anccerson\n\n### [2.3.0] - 2018-03-17\n#### Added\n- Add SuperGridSectionList @andersonaddo\n\n### [2.1.0] - 2018-03-17\n#### Added\n- Use FlatList instead of ListView\n- Fix spacing issues\n\n### [2.0.2] - 2018-01-11\n#### Added\n- Allow dynamic update of itemDimension\n\n### [2.0.1] - 2017-12-13\n#### Added\n- Fixed render empty section headers Warning. @mannycolon\n\n### [2.0.0] - 2017-12-02\n#### Added\n- Add ability to have a horizontal grid. @Sh3rawi\n\n\n### [1.1.0] - 2017-11-03 (Target React Native 0.49+)\n#### Added\n- Replace view.propTypes to ViewPropTypes for 0.49+. @caudaganesh\n\n\n### [1.0.4] - 2017-10-09\n#### Added\n- Optional staticWidth prop @thejettdurham.\n- Use prop-types package instead of deprecated react's PropTypes.\n\n\n### [1.0.3] - 2017-06-06\n#### Added\n- Pass row index to renderItem @heaversm.\n\n\n\n## Acknowledgments\n\nColors in the example from https://flatuicolors.com/.\n\nScreenshot Mockup generated from https://mockuphone.com.\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saleel97/react-native-super-grid.git"
+  },
+  "types": "index.d.ts",
+  "version": "3.1.1"
+}
